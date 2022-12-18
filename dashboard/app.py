@@ -107,6 +107,93 @@ c = alt.Chart(source_V2).mark_arc().encode(
 )
 st.altair_chart(c, use_container_width=True)
 
+#-------------------#
+#Map
+st.subheader("Visualization 3: Map of all police killings")
+
+# Create a list of variables for visualization 3
+
+var_list_V3 = ['state', 'city','latitude', 'longitude']
+
+source_V3 = df[var_list_V3]
+
+source_V3.reset_index(inplace=True)
+
+# Set up vega_datasets
+from vega_datasets import data
+
+c = alt.topo_feature(data.us_10m.url, feature='states')
+
+background = alt.Chart(states).mark_geoshape(
+    fill='lightgray',
+    stroke='white'
+).project('albersUsa').properties(
+    title="Map of police killings",
+    width=500,
+    height=300
+)
+
+points = alt.Chart(source_V3).mark_circle(color='firebrick').encode(
+    longitude='longitude:Q',
+    latitude='latitude:Q',
+    size=alt.value(10),
+    tooltip=['city', 'state' ]
+)
+
+Map= background + points
+
+chartMap=Map.configure_title(
+    fontSize=15,
+    font='Arial',
+    anchor='middle',
+    color='darkred'
+)
+st.altair_chart(c, use_container_width=True)
+#-------------------#
+#4. Visualization 
+st.subheader("Visualization 4: Which gender is most effected by police killings?")
+
+# Create a list of variables for visualization 3
+
+var_list_V4 = ['gender', 'age']
+
+source_V4 = df[var_list_V4]
+
+c = alt.Chart(source_V4).mark_bar(
+    cornerRadiusTopLeft=3,
+    cornerRadiusTopRight=3
+).encode(
+     x=alt.X('gender:O', 
+            sort= 'y',
+            # custom axis titles
+            axis=alt.Axis(title="Gender", # title of x axis: Gender
+                          labelAngle=0)), # angle of x axis text: 0
+    y=alt.Y('count():Q',
+            axis=alt.Axis(title = "Count of deaths", # title of y axis: Count of deaths
+                        titleAnchor="middle")), # show title in middle of axis
+    tooltip= ['gender', 'count(gender)' ],
+    color= alt.Color ('gender', legend=alt.Legend(title="Which cause?"))
+
+).interactive(
+
+).properties( 
+    title= 'Which gender is most likely to be killed by police?',
+    width= 200,
+    height= 500
+
+).configure_title(
+    fontSize=13,
+    font='Arial',
+    anchor='start',
+    color='black'
+)
+st.altair_chart(c, use_container_width=True)
+
+#-------------------#
+# Bonus 
+st.subheader("")
+
+
 
 
 
