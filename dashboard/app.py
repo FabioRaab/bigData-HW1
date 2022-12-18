@@ -24,19 +24,17 @@ df = pd.read_csv("https://raw.githubusercontent.com/FabioRaab/bigData-HW1/main/d
 st.header("Groupe: O - Dashboard")
 # Title of  app
 st.title("Task 5: Streamlit")
+
+# Show df 
 st.dataframe(df)
 
 
 #-------------------#
 # BODY
 
-# Show df 
-
 st.subheader("Visualization 1: Bar plot analyzing cause of death")
 
 # Bar plot
-
-st.write("Bar chart")
 
 var_list_V1 = ['gender', 'cause']
 
@@ -68,6 +66,51 @@ c = alt.Chart(source_V1).mark_bar().encode(
     height= 450
 )
 st.altair_chart(c, use_container_width=True)
+
+#second visualization
+st.subheader("Visualization 2: Pie chart analysing race/ethnicity of deceased")
+
+#-------------------#
+#Pie chart
+
+# DATA CORRECTION
+
+df.raceethnicity = df.raceethnicity.astype("category")
+
+# Create a list of variables for visualization 2
+source_V2 = pd.DataFrame(df.raceethnicity.value_counts())
+
+# Set index to column
+source_V2 = source_V2.reset_index()
+
+# Rename columns
+source_V2.rename(columns={"index": "race", "raceethnicity": "value"}, inplace=True)
+
+
+c = alt.Chart(source_V2).mark_arc().encode(
+    theta=alt.Theta(field="value", type="quantitative"),
+    color= alt.Color ('race', 
+                     legend=alt.Legend(title="Which race?")),
+    tooltip = ["race"]
+
+).configure_title(
+    fontSize=12,
+    font='Arial',
+    anchor='start',
+    color='black'
+
+
+).properties( 
+    title= 'Which race is most effected by police killings?',
+    width= 300,
+    height= 300
+)
+st.altair_chart(c, use_container_width=True)
+
+
+
+
+
 
 # Show metric
 st.subheader("Display Metrics")
