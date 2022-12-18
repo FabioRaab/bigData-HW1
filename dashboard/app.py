@@ -9,25 +9,22 @@ from pathlib import Path
 home_path = str(Path.home())
 #-------------------
 #-------------------#
-# IMPORT LOCAL DATA
+# IMPORT DATA
 
 
 # Data import (you may need to change the path)
 df1 = pd.read_csv("https://raw.githubusercontent.com/FabioRaab/bigData-HW1/main/data/external/police_killings.csv")
 
-# Data preparation
-df = df.sort_values(by=['gdp_per_capita'], ascending=False)
 
 ###-------------------###
-# START OF OUR APP
+# START OF APP
 
 #-------------------#
 # HEADER
+st.header("Groupe: O - Dashboard")
+# Title of  app
+st.title("Task 5: Streamlit")
 
-# Title of our app
-st.title("Hello World!")
-# Add a gif
-st.markdown("![Alt Text](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)")
 
 #-------------------#
 # BODY
