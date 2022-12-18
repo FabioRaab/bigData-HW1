@@ -6,13 +6,14 @@ import pandas as pd
 import altair as alt
 from pathlib import Path
 
+home_path = str(Path.home())
 #-------------------
 #-------------------#
 # IMPORT LOCAL DATA
 
 
 # Data import (you may need to change the path)
-df = pd.read_csv("https://raw.githubusercontent.com/kirenz/datasets/master/oecd-new.csv")
+df1 = pd.read_csv("https://raw.githubusercontent.com/FabioRaab/bigData-HW1/main/data/external/police_killings.csv")
 
 # Data preparation
 df = df.sort_values(by=['gdp_per_capita'], ascending=False)
