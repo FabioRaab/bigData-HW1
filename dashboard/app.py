@@ -191,12 +191,17 @@ st.altair_chart(c, use_container_width=True)
 
 #-------------------#
 # Bonus 
-st.subheader("")
+st.subheader("Bonus: Visualization 5: Crosstab showing relation of death's cause and whether deseased was armed")
 
+Crosstab = pd.crosstab(df['cause'],    # rows: cause
+            df['armed'],    # columns: armed
+            normalize='index',
+            margins=True).round(3)*100 #4 steht für 3 Nachkommastellen und 100 für auf 100%
 
+Crosstab.drop(columns=["Unknown", "Non-lethal firearm", "Disputed"], inplace=True)
 
-
-
+c = crosstabCauseAndArmed = Crosstab.drop(index=('Unknown'))
+st.altair_chart(c, use_container_width=True)
 
 
 # Show metric
