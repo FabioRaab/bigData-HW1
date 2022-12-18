@@ -32,17 +32,41 @@ st.dataframe(df)
 
 # Show df 
 
-st.write("Visualization 1: Bar plot analyzing cause of death")
+st.subheader("Visualization 1: Bar plot analyzing cause of death")
 
 # Bar plot
-st.subheader("Bar chart")
 
-c = alt.Chart(df).mark_bar().encode(
-    x='country',
-    y='life_satisfaction',
-    tooltip = ['country', "life_satisfaction"]
+st.write("Bar chart")
+
+var_list_V1 = ['gender', 'cause']
+
+source_V1 = df[var_list_V1]
+
+c = alt.Chart(source_V1).mark_bar().encode(
+    x=alt.X('cause', 
+            sort= '-y',
+            # custom axis titles
+            axis=alt.Axis(title="Cause of death", # title of x axis: Cause of death
+                          labelAngle=0)), # angle of x axis text: 0
+      y=alt.Y('count(cause)',
+            axis=alt.Axis(title = "Count of deaths due to this cause", # title of y axis: Count of deaths due to this cause
+                        titleAnchor="end")), # show title in end of axis
+      color= alt.Color ('cause', type="nominal", legend=alt.Legend(title="Which cause?")),
+      tooltip=['cause', 'count(cause)']
+
+).interactive(
+
+).configure_title(
+    fontSize=13,
+    font='Arial',
+    anchor='start',
+    color='black'
+
+).properties( 
+    title= 'What is the most common cause of death among police killings?',
+    width= 500,
+    height= 450
 )
-
 st.altair_chart(c, use_container_width=True)
 
 # Show metric
