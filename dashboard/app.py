@@ -13,7 +13,7 @@ home_path = str(Path.home())
 
 
 # Data import (you may need to change the path)
-df1 = pd.read_csv("https://raw.githubusercontent.com/FabioRaab/bigData-HW1/main/data/external/police_killings.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/FabioRaab/bigData-HW1/main/data/external/police_killings.csv")
 
 
 ###-------------------###
@@ -24,17 +24,17 @@ df1 = pd.read_csv("https://raw.githubusercontent.com/FabioRaab/bigData-HW1/main/
 st.header("Groupe: O - Dashboard")
 # Title of  app
 st.title("Task 5: Streamlit")
+st.dataframe(df)
 
 
 #-------------------#
 # BODY
 
-# Show df and highlight some attributes
-st.write("DataFrame with highlight_max:")
-st.dataframe(df.style.highlight_max(axis=0))
+# Show df 
 
+st.write("Visualization 1: Bar plot analyzing cause of death")
 
-# Bar chart
+# Bar plot
 st.subheader("Bar chart")
 
 c = alt.Chart(df).mark_bar().encode(
