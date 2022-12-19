@@ -124,7 +124,7 @@ from vega_datasets import data
 
 c = alt.topo_feature(data.us_10m.url, feature='states')
 
-background = alt.Chart(states).mark_geoshape(
+background = alt.Chart(c).mark_geoshape(
     fill='lightgray',
     stroke='white'
 ).project('albersUsa').properties(
