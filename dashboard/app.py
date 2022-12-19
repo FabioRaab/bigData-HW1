@@ -148,7 +148,9 @@ chartMap=Map.configure_title(
     anchor='middle',
     color='darkred'
 )
+chartMap
 st.altair_chart(c, use_container_width=True)
+
 #-------------------#
 #4. Visualization 
 st.subheader("Visualization 4: Which gender is most effected by police killings?")
