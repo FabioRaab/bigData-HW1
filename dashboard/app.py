@@ -203,23 +203,5 @@ Crosstab = pd.crosstab(df['cause'],    # rows: cause
 Crosstab.drop(columns=["Unknown", "Non-lethal firearm", "Disputed"], inplace=True)
 
 c = crosstabCauseAndArmed = Crosstab.drop(index=('Unknown'))
+crosstabCauseAndArmed
 st.altair_chart(c, use_container_width=True)
-
-
-# Show metric
-st.subheader("Display Metrics")
-st.metric("My metrics", 32, 4)
-
-# Add slider with user input
-st.subheader("Slider")
-st.write("This is a Slider")
-x = st.slider('x')  # 👈 this is a widget
-st.write(x, 'squared is', x * x)
-
-# Show code
-st.subheader("Show some code")
-
-code = '''def hello():
-     print("Hello, Streamlit!")'''
-
-st.code(code, language='python')
