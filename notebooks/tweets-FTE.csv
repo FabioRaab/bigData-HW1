@@ -1,128 +1,113 @@
-,id,created_at,author_id,text,edit_history_tweet_ids
-0,1593043780483317761,2022-11-17T00:50:09.000Z,2303751216,"As expected, Republicans have taken control of the U.S. House of Representatives, ending two years of Democratic rule in Washington, D.C. ABC News estimates that Republicans have won at least 218 seats and Democrats have won at least 210. https://t.co/YcHKePXgWF",['1593043780483317761']
-1,1592958101858111488,2022-11-16T19:09:41.000Z,2303751216,"Brazil is the favorite and Messi is the star, but the 2022 World Cup is up for grabs. https://t.co/VzpVqPqakm",['1592958101858111488']
-2,1592953772678197250,2022-11-16T18:52:29.000Z,2303751216,"🥁
-🥁
-🥁
-🥁
-🥁
-🥁
-🥁
-🥁
-🥁
-🥁
+,id,text,author_id,edit_history_tweet_ids,created_at
+0,1605763580183384066,"The teams that won, lost and confused us this MLB offseason --&gt; https://t.co/KWrIVCbxNg",2303751216,['1605763580183384066'],2022-12-22T03:14:05.000Z
+1,1605758533701701632,33 cool charts we made in 2022: https://t.co/WlbxUhdLVE,2303751216,['1605758533701701632'],2022-12-22T02:54:02.000Z
+2,1605753516898881536,Can you solve this pizza puzzle? https://t.co/M2E95bOQ8v,2303751216,['1605753516898881536'],2022-12-22T02:34:06.000Z
+3,1605748461088931841,The number that captures the impact of the Dobbs decision: https://t.co/W6uM9qW00H,2303751216,['1605748461088931841'],2022-12-22T02:14:01.000Z
+4,1605743435796942848,An updating calculation of President Biden's approval rating: https://t.co/5SbhcwXubX,2303751216,['1605743435796942848'],2022-12-22T01:54:03.000Z
+5,1605738398999879683,Why people fall for conspiracy theories: https://t.co/7OuNuypB82,2303751216,['1605738398999879683'],2022-12-22T01:34:02.000Z
+6,1605733367663804417,"Biggest loser: Boston Red Sox
+https://t.co/69cTJ7SLwH",2303751216,['1605733367663804417'],2022-12-22T01:14:02.000Z
+7,1605728333039370240,Our college football predictions: https://t.co/brCeSWNh9B,2303751216,['1605728333039370240'],2022-12-22T00:54:02.000Z
+8,1605723313040461827,Which states do you consider part of the Midwest? https://t.co/NAyZAonFgQ,2303751216,['1605723313040461827'],2022-12-22T00:34:05.000Z
+9,1605718268165214210,Re: Your New Year's resolution. https://t.co/RegFGk1QQt,2303751216,['1605718268165214210'],2022-12-22T00:14:02.000Z
+10,1605713255619600384,Our NHL predictions: https://t.co/htU9WqzsNH,2303751216,['1605713255619600384'],2022-12-21T23:54:07.000Z
+11,1605708221037117440,How Gen Z could transform American politics: https://t.co/1wBGkakmbG,2303751216,['1605708221037117440'],2022-12-21T23:34:07.000Z
+12,1605703185489956865,"Strangest offseason: Los Angeles Angels
+https://t.co/ZHaJEMeRDB",2303751216,['1605703185489956865'],2022-12-21T23:14:06.000Z
+13,1605698154963386369,"It used to be, if you wanted to see a Poweshiek skipperling butterfly, the thing to do was go out on the prairie and stare into the middle distance, like you were trying to see a sailboat buried in a Magic Eye painting. https://t.co/COrx7LjOYQ https://t.co/kQov5UfwhE",2303751216,['1605698154963386369'],2022-12-21T22:54:07.000Z
+14,1605693113393192964,"If these trends hold, there could be at least 60,000 fewer abortions than there would have otherwise been in the 12 months after the Supreme Court ruling. https://t.co/zccG5R3NSg",2303751216,['1605693113393192964'],2022-12-21T22:34:05.000Z
+15,1605690589923745809,How Democrats broadened Biden’s 2020 coalition in key states: https://t.co/rjL10UBhVy,2303751216,['1605690589923745809'],2022-12-21T22:24:03.000Z
+16,1605688070615048202,"Most interesting offseason: Chicago Cubs
+https://t.co/HKp3d99QoY",2303751216,['1605688070615048202'],2022-12-21T22:14:02.000Z
+17,1605685110417793029,140 million Americans will live in states controlled by Democrats. https://t.co/b7p4qkfN0s,2303751216,['1605685110417793029'],2022-12-21T22:02:17.000Z
+18,1605670207627878410,"😰
+https://t.co/Rtif9fhbmx",2303751216,['1605670207627878410'],2022-12-21T21:03:04.000Z
+19,1605665380994801673,"During his more than two decades as a college head coach, Mike Leach changed football forever. https://t.co/YHKC1yH3Rb",2303751216,['1605665380994801673'],2022-12-21T20:43:53.000Z
+20,1605660657050869780,Here are some of the most interesting — and weird and colorful and complicated — charts we made in the last 12 months. https://t.co/d3fO661xVa,2303751216,['1605660657050869780'],2022-12-21T20:25:07.000Z
+21,1605657878039302177,"Under-the-radar winner: Toronto Blue Jays
+https://t.co/moLWOCZBl3",2303751216,['1605657878039302177'],2022-12-21T20:14:04.000Z
+22,1605642772307902464,"Biggest winner: New York Mets
+https://t.co/xMttdFhZTZ",2303751216,['1605642772307902464'],2022-12-21T19:14:02.000Z
+23,1605640012074196993,"The college football bowls you should watch, according to our highly scientific ratings --&gt; https://t.co/7COYbUMfMC",2303751216,['1605640012074196993'],2022-12-21T19:03:04.000Z
+24,1605637755492569099,Our NFL predictions: https://t.co/37zL16Ngdy,2303751216,['1605637755492569099'],2022-12-21T18:54:06.000Z
+25,1605610080812023808,"A very merry 2024 Republican presidential primary draft
+https://t.co/E8xDKGhUij",2303751216,['1605610080812023808'],2022-12-21T17:04:08.000Z
+26,1605607545510436869,The latest political polls: https://t.co/uYlg3wiV06,2303751216,['1605607545510436869'],2022-12-21T16:54:04.000Z
+27,1605605036536598529,"The best NFL receivers, according to ESPN analytics  https://t.co/TzxJ8zzswA",2303751216,['1605605036536598529'],2022-12-21T16:44:06.000Z
+28,1605602520365162498,An updating average of Americans' favorability of former President Trump: https://t.co/Fhy3T2TCNP,2303751216,['1605602520365162498'],2022-12-21T16:34:06.000Z
+29,1605599997373960194,The number that captures the impact of the Dobbs decision: https://t.co/YjYbUekAnb,2303751216,['1605599997373960194'],2022-12-21T16:24:04.000Z
+30,1605597227115757570,"The teams that won, lost and confused us this MLB offseason --&gt; https://t.co/ggQd1a6opM",2303751216,['1605597227115757570'],2022-12-21T16:13:04.000Z
+31,1605382614910648320,"Our updating calculation of the president's approval rating accounts for each poll's quality, recency, sample size and partisan lean. https://t.co/dW9PZJyFIr",2303751216,['1605382614910648320'],2022-12-21T02:00:16.000Z
+32,1605362676053549057,The midterms made state governments bluer https://t.co/sNaYRyZLSI,2303751216,['1605362676053549057'],2022-12-21T00:41:02.000Z
+33,1605354884953513985,The first nominating contest of the 2024 Republican presidential primary is likely just about a year away 👀 https://t.co/sCth6R1njU,2303751216,['1605354884953513985'],2022-12-21T00:10:05.000Z
+34,1605347078451904518,An updating average of Americans' favorability of former President Trump: https://t.co/KcBH9wbZH0,2303751216,['1605347078451904518'],2022-12-20T23:39:04.000Z
+35,1605338520553459713,"These butterflies represent a moment of reckoning and wrestling, as environmental scientists struggle to find hope in a world where losing battles are the ones most likely to be fought.  https://t.co/AYyQCQIhYq",2303751216,['1605338520553459713'],2022-12-20T23:05:03.000Z
+36,1605333233838727168,The latest political polls: https://t.co/cb1BRHLfoM,2303751216,['1605333233838727168'],2022-12-20T22:44:03.000Z
+37,1605323421952385025,"At each stop, Mike Leach was entrusted with the direction of programs that were, at best, second-rate within their own state by both pedigree and support — and then outperformed his neighbors who traditionally served as regional headliners. https://t.co/oyWky2SRjz",2303751216,['1605323421952385025'],2022-12-20T22:05:03.000Z
+38,1605312592074907650,Can you outsmart our forecasts? Make your picks: https://t.co/1fiNjbQY9x,2303751216,['1605312592074907650'],2022-12-20T21:22:01.000Z
+39,1605302032969105411,Our NFL predictions: https://t.co/ZqPK2TUhgx,2303751216,['1605302032969105411'],2022-12-20T20:40:04.000Z
+40,1605293222858838051,Argentina and France lived up to the #WorldCup final's hype — and then transcended it https://t.co/3A4WzHs6Rp,2303751216,['1605293222858838051'],2022-12-20T20:05:03.000Z
+41,1605291208926023707,Democrats’ new strength on the state level could lead to a flurry of new liberal policies. https://t.co/3OI8SnzDwG,2303751216,['1605291208926023707'],2022-12-20T19:57:03.000Z
+42,1605284686581977112,"Quick show of hands, who else is still picking themselves up off the floor from Sunday? https://t.co/XAy7r7b2XW",2303751216,['1605284686581977112'],2022-12-20T19:31:08.000Z
+43,1605279373787029510,How Republicans won the majority of Latino voters in Florida https://t.co/eCcsh717Yf,2303751216,['1605279373787029510'],2022-12-20T19:10:02.000Z
+44,1605274607350698001,"A very merry 2024 Republican presidential primary draft
+https://t.co/qnoNUCsMJU",2303751216,['1605274607350698001'],2022-12-20T18:51:05.000Z
+45,1605265550870978618,How Gen Z could transform American politics: https://t.co/3cupWhOiOS https://t.co/RxjWZT0bJy,2303751216,['1605265550870978618'],2022-12-20T18:15:06.000Z
+46,1605254731445706762,NFL games have never been closer. Here's why. https://t.co/wraP5tqTUV,2303751216,['1605254731445706762'],2022-12-20T17:32:06.000Z
+47,1605246923283333121,The places where successful Democratic Senate candidates did gain ground in 2022 suggests that they largely replicated President Biden’s 2020 coalition while also making some small but specific inroads. https://t.co/0p9cG0ZLYD,2303751216,['1605246923283333121'],2022-12-20T17:01:05.000Z
+48,1605240876296507396,"The college football bowls you should watch, according to our highly scientific ratings --&gt; https://t.co/aHfTIGVeqL",2303751216,['1605240876296507396'],2022-12-20T16:37:03.000Z
+49,1605234648669380609,"The best NFL receivers, according to ESPN analytics https://t.co/FmiItDuNpW https://t.co/oiqZyqA2EB",2303751216,['1605234648669380609'],2022-12-20T16:12:18.000Z
+50,1605229053711106057,33 cool charts we made in 2022: https://t.co/H0vTAuhh1J https://t.co/fj8nUZJZyI,2303751216,['1605229053711106057'],2022-12-20T15:50:04.000Z
+51,1605222757008084994,"On or off the field, there was no one quite like Mike Leach. https://t.co/z6HZdotIO9",2303751216,['1605222757008084994'],2022-12-20T15:25:03.000Z
+52,1605215719293128706,Politics Podcast: What @galendruke learned from the 2022 midterms https://t.co/byFPCynYDz,2303751216,['1605215719293128706'],2022-12-20T14:57:05.000Z
+53,1605209417653288963,It’s no longer way too early for us to hold a fantasy-baseball-style draft of who we think the GOP will nominate for president in 2024. https://t.co/L0WdTKH47X,2303751216,['1605209417653288963'],2022-12-20T14:32:03.000Z
+54,1605204133564252161,We’re still processing Week 15’s most mind-blowing finishes https://t.co/66RFlaHadu,2303751216,['1605204133564252161'],2022-12-20T14:11:03.000Z
+55,1605199084230426626,How North Carolina’s political warfare could impact the entire country https://t.co/eTKSR314Zs,2303751216,['1605199084230426626'],2022-12-20T13:50:59.000Z
+56,1605012883846356994,From the archives: Why people fall for conspiracy theories https://t.co/fhcnNtKiMu,2303751216,['1605012883846356994'],2022-12-20T01:31:05.000Z
+57,1605005138904731654,"For Messi, Qatar was about a win for his team or bust. And what a win it ended up being. https://t.co/7BpeD4iriK",2303751216,['1605005138904731654'],2022-12-20T01:00:19.000Z
+58,1604994497259212800,We took a look at the county-level 2022 election results in key states to see how winning Democratic Senate candidates' margins compared to President Biden’s in 2020. https://t.co/5sltAsBApS,2303751216,['1604994497259212800'],2022-12-20T00:18:02.000Z
+59,1604990021446127617,Did redistricting cost Democrats the House? https://t.co/3jlqvjR9xg,2303751216,['1604990021446127617'],2022-12-20T00:00:15.000Z
+60,1604986213085184001,Our NHL predictions: https://t.co/EpVizJRVY8,2303751216,['1604986213085184001'],2022-12-19T23:45:07.000Z
+61,1604982185819357191,"Insects are threatened at a rate far exceeding that of mammals, birds and reptiles. 
 
---
+Butterflies are one of the most affected groups, but they weren’t a major focus of conservation science until recently. https://t.co/ERB3Qz8b25 https://t.co/561eQyFKs3",2303751216,['1604982185819357191'],2022-12-19T23:29:06.000Z
+62,1604971109639753729,"Research suggests that while Americans want more kinds of infrastructure to reduce homelessness, far fewer want those resources close to where they themselves live. https://t.co/W6njDlaWuX",2303751216,['1604971109639753729'],2022-12-19T22:45:06.000Z
+63,1604963560387498020,"One of the most important numbers in American politics this year is 140 million. 
 
-Our 2022 World Cup Predictions: https://t.co/tGwViJkKj1",['1592953772678197250']
-3,1592947382991429633,2022-11-16T18:27:06.000Z,2303751216,How our 2022 World Cup predictions work: https://t.co/2t6OccYjRH,['1592947382991429633']
-4,1592942349784698881,2022-11-16T18:07:06.000Z,2303751216,A historic number of women will be governors next year. https://t.co/391F8JVFWu,['1592942349784698881']
-5,1592937369434525697,2022-11-16T17:47:18.000Z,2303751216,Why DeSantis is a major threat to Trump’s reelection: https://t.co/bIgMVlvQVd,['1592937369434525697']
-6,1592921696251650049,2022-11-16T16:45:02.000Z,2303751216,Does trading for an NBA star work? It's complicated. https://t.co/9vp5bjTFTF,['1592921696251650049']
-7,1592733226933653504,2022-11-16T04:16:07.000Z,2303751216,Re: Trump. https://t.co/M1zy58HqQO https://t.co/hci417vlAK,['1592733226933653504']
-8,1592709377189986306,2022-11-16T02:41:21.000Z,2303751216,Why Trump is favored to win the 2024 Republican presidential primary —&gt; https://t.co/ZxpLO5yJdU,['1592709377189986306']
-9,1592684636869603329,2022-11-16T01:03:02.000Z,2303751216,"Our updating calculation of the president's approval rating accounts for each poll's quality, recency, sample size and partisan lean. https://t.co/dq6GINLxCZ",['1592684636869603329']
-10,1592678848025751552,2022-11-16T00:40:02.000Z,2303751216,Congress will have the most Black Republicans in over a century — but that’s not saying a lot.  https://t.co/fdGiUlfXW0,['1592678848025751552']
-11,1592673814563139584,2022-11-16T00:20:02.000Z,2303751216,Our NBA predictions: https://t.co/dcazQkVmk3,['1592673814563139584']
-12,1592663250210295808,2022-11-15T23:38:03.000Z,2303751216,Is the United States in an era of high voter turnout? https://t.co/73ZrBgqmda,['1592663250210295808']
-13,1592658719195676674,2022-11-15T23:20:03.000Z,2303751216,"The best NFL receivers, according to ESPN analytics: https://t.co/pFnpkaRrcs",['1592658719195676674']
-14,1592643627532095491,2022-11-15T22:20:05.000Z,2303751216,"Justin Jefferson grabbed some footballs, and the Vikings grabbed some respect https://t.co/73sA6FlLGt",['1592643627532095491']
-15,1592631087854854145,2022-11-15T21:30:15.000Z,2303751216,We went back and calculated which school was King of Texas every year since 1902. https://t.co/syYdA0IsZz,['1592631087854854145']
-16,1592617697350664197,2022-11-15T20:37:03.000Z,2303751216,Our NFL predictions: https://t.co/de9Yur3YRG,['1592617697350664197']
-17,1592616204006346752,2022-11-15T20:31:07.000Z,2303751216,"Turnout surged during the last midterm elections in 2018 when 49 percent of eligible voters cast a ballot for the highest office in their state, according to data analyzed by the U.S. Elections Project. 
-
-Early signs point to similar turnout in 2022. https://t.co/IQIO1wjNe7",['1592616204006346752']
-18,1592603117363036160,2022-11-15T19:39:06.000Z,2303751216,"We discuss how partisan pollsters over-projected Republican gains, why Democrats beat historical trends in the midterms and more: https://t.co/jgvkSTZNzF",['1592603117363036160']
-19,1592593394966183939,2022-11-15T19:00:28.000Z,2303751216,"When the new Congress comes into session in January, there will be more Black Republicans serving together on Capitol Hill than at any point since 1877.
-
-The number? Five. https://t.co/ocNZHpNacR",['1592593394966183939']
-20,1592586512700510209,2022-11-15T18:33:08.000Z,2303751216,.@NateSilver538 breaks down the odds for the upcoming Georgia runoff election: https://t.co/MLiprs7ZmC,['1592586512700510209']
-21,1592574174555430912,2022-11-15T17:44:06.000Z,2303751216,Bookmark our uncalled races live blog to keep up with the latest election updates: https://t.co/5jbx1FeM4B,['1592574174555430912']
-22,1592568148947271680,2022-11-15T17:20:09.000Z,2303751216,"Sure, TCU could make the playoff. But more importantly, it earned Texas football bragging rights. https://t.co/3mLKq2oQsr",['1592568148947271680']
-23,1592561435531517953,2022-11-15T16:53:29.000Z,2303751216,Voter turnout was high again. Is this the new normal? https://t.co/L6uLSe6MN5,['1592561435531517953']
-24,1592549694751707136,2022-11-15T16:06:50.000Z,2303751216,"As things stand, Republicans have won 215 House seats compared with 207 for Democrats, according to @ABC News estimates, putting Republicans just three seats short of a majority-clinching 218. https://t.co/5jbx1EXaG1",['1592549694751707136']
-25,1592545481296584704,2022-11-15T15:50:05.000Z,2303751216,Even the weakest group this year is strong by historical standards. https://t.co/lbgUOuRdf1,['1592545481296584704']
-26,1592539871369138181,2022-11-15T15:27:47.000Z,2303751216,".@ABC News reports that Republican Juan Ciscomani is projected to win Arizona’s 6th District. 
-
-That puts the GOP at 215 House seats — just three shy of a majority. https://t.co/ZiplhR2u9H",['1592539871369138181']
-27,1592536435198144512,2022-11-15T15:14:08.000Z,2303751216,The fact that electing five or six Black Republicans to Congress is a feat worth discussing is reflective of how the party continues to struggle with Black voters. https://t.co/QGiMGnUFcy,['1592536435198144512']
-28,1592527776439218176,2022-11-15T14:39:44.000Z,2303751216,Denying the 2020 election wasn’t a winning strategy for political newcomers https://t.co/LSu8nimylf,['1592527776439218176']
-29,1592521911765913600,2022-11-15T14:16:26.000Z,2303751216,Politics Podcast: Why Democrats beat historical trends in 2022 https://t.co/evfr1x6AJt,['1592521911765913600']
-30,1592328791904423939,2022-11-15T01:29:02.000Z,2303751216,"The best NFL receivers, according to ESPN analytics: https://t.co/yeJ0WhsYyo",['1592328791904423939']
-31,1592317734725074946,2022-11-15T00:45:06.000Z,2303751216,The Colts hired Jeff Saturday as head coach. We have questions. https://t.co/0AyLajPqaJ,['1592317734725074946']
-32,1592302114083991553,2022-11-14T23:43:02.000Z,2303751216,"While many factors have influenced the midterm results, the overall trend suggests that playing to voters who deny the results of the 2020 election wasn’t a winning strategy by itself. https://t.co/ezTOuCXI2p",['1592302114083991553']
-33,1592287550814789634,2022-11-14T22:45:10.000Z,2303751216,Our NBA predictions: https://t.co/xhAfM9epHk,['1592287550814789634']
-34,1592278720747667457,2022-11-14T22:10:04.000Z,2303751216,It's clear that the end of Roe v. Wade turned abortion access into one of the most salient issues in the country — which means you’re going to be hearing a lot more about it as the 2024 presidential campaign creaks into gear. https://t.co/YkfxBlqrbF,['1592278720747667457']
-35,1592276969882017792,2022-11-14T22:03:07.000Z,2303751216,"Our updating calculation of the president's approval rating accounts for each poll's quality, recency, sample size and partisan lean. https://t.co/0O2qgh4uMZ",['1592276969882017792']
-36,1592258596187799555,2022-11-14T20:50:06.000Z,2303751216,"Justin Jefferson grabbed some footballs, and the Vikings grabbed some respect https://t.co/eQ5rd50i46",['1592258596187799555']
-37,1592252952596697088,2022-11-14T20:27:41.000Z,2303751216,.@galendruke takes a look at the unresolved races that will determine control of the House: https://t.co/IwD5aJ6AtD,['1592252952596697088']
-38,1592251043131392001,2022-11-14T20:20:05.000Z,2303751216,Do you buy that … Sen. Raphael Warnock is favored in Georgia’s Senate runoff? With @NateSilver538: https://t.co/VNobHf5Qpr,['1592251043131392001']
-39,1592235700220735489,2022-11-14T19:19:07.000Z,2303751216,Arizona’s race for governor is still in suspense. #Election2022 https://t.co/MeyCpTSjvt,['1592235700220735489']
-40,1592227444223787010,2022-11-14T18:46:19.000Z,2303751216,.@ABC is reporting that Republican Lori Chavez-DeRemer is projected to win Oregon’s 5th District. This light-blue seat is a big gain for Republicans. #Election2022 https://t.co/VTW9xZj8ti,['1592227444223787010']
-41,1592224622027546625,2022-11-14T18:35:06.000Z,2303751216,"Voters almost universally rejected election deniers who ran for secretary of state, an office that is typically a state’s top election official and responsible for administering elections, enforcing election laws and certifying results. https://t.co/lwCf9YRFCe",['1592224622027546625']
-42,1592224325695938560,2022-11-14T18:33:56.000Z,2303751216,"Democrats take control of the Senate, but the House is still too close to call: https://t.co/1EvNyhTLHn",['1592224325695938560']
-43,1592204452165033991,2022-11-14T17:14:57.000Z,2303751216,"Welcome to our Unresolved Races live blog, where we will be updating you on all the elections where we don’t yet have a projected winner: https://t.co/fqE15NCURN",['1592204452165033991']
-44,1592196142321704960,2022-11-14T16:41:56.000Z,2303751216,.@NateSilver538 breaks down the odds for the upcoming Georgia runoff election: https://t.co/UsB84bu9h5,['1592196142321704960']
-45,1592189055650828288,2022-11-14T16:13:46.000Z,2303751216,Polls &gt; vibes https://t.co/h17IMsxA7D,['1592189055650828288']
-46,1592175786429120514,2022-11-14T15:21:03.000Z,2303751216,Does trading for an NBA star work? It's complicated. https://t.co/nNRiWcD4Cx,['1592175786429120514']
-47,1592166737599946756,2022-11-14T14:45:05.000Z,2303751216,The midterm election results look like a striking rebuke of the Supreme Court's decision to overturn Roe v. Wade. https://t.co/JwQE834c7H,['1592166737599946756']
-48,1592159553918885888,2022-11-14T14:16:33.000Z,2303751216,Denying the 2020 election wasn’t a winning strategy for political newcomers https://t.co/v5idm0xVaG,['1592159553918885888']
-49,1591820292451606528,2022-11-13T15:48:26.000Z,2303751216,"Last night, ABC News reported that Catherine Cortez Masto is projected to win Nevada’s Senate race, defeating Republican Adam Laxalt. 
-
-That gives Democrats 50 seats and a Senate majority with Vice President Harris’s vote. https://t.co/1ncMQIuUQW",['1591820292451606528']
-50,1591281421733474304,2022-11-12T04:07:10.000Z,2303751216,"Karen Bass took the lead over Rick Caruso in the Los Angeles mayoral race tonight. She now leads 50.4% to 49.6%, and if the primary is any indication, her lead should only grow from here. https://t.co/BYasVQKfcg",['1591281421733474304']
-51,1591275246421770241,2022-11-12T03:42:37.000Z,2303751216,Latest election results --&gt; https://t.co/VsX3S6BIgP,['1591275246421770241']
-52,1591274823443189762,2022-11-12T03:40:57.000Z,2303751216,"With the latest update from Maricopa County, Hobbs extends her lead over Lake to 31,097 votes (51% to 49%) in Arizona’s governor race. https://t.co/AvndrKlgb3",['1591274823443189762']
-53,1591274521410949120,2022-11-12T03:39:45.000Z,2303751216,"ABC News is reporting that Democrat Adrian Fontes is projected to win the Arizona secretary of state’s race. He leads Republican Mark Finchem, who was involved in efforts to overturn Biden’s 2020 win in Arizona, 53% to 47%. https://t.co/qIHFDpfQNB",['1591274521410949120']
-54,1591273899668348928,2022-11-12T03:37:16.000Z,2303751216,"Earlier tonight, ABC News reported that Democratic Rep. Susie Lee is projected to win Nevada’s 3rd Congressional District. Lee’s victory means that Democrats will control three of the Silver State’s four House seats. https://t.co/9EWwNphRPg",['1591273899668348928']
-55,1591273374185328641,2022-11-12T03:35:11.000Z,2303751216,"Democrats are now projected to have 49 seats in the next U.S. Senate, and could clinch a majority with one more seat. 
-
-That could happen as soon as this weekend. https://t.co/r94GVO2O1b https://t.co/HvnFclGkGf",['1591273374185328641']
-56,1591272872840146944,2022-11-12T03:33:11.000Z,2303751216,"ABC News is reporting that Democratic incumbent Mark Kelly is projected to win Arizona’s U.S. Senate race. 
-
-Maricopa County just reported about 74,000 ballots, and they split for Kelly 40,719 votes to 32,318. That stretched Kelly’s statewide lead to 52%. https://t.co/PqLEBemexO",['1591272872840146944']
-57,1591120744033185792,2022-11-11T17:28:41.000Z,2303751216,"Republicans are hoping that the early ballots dropped off on Election Day will be better for them than the ones that reported on Wednesday and Thursday, which were primarily early ballots dropped off on the Saturday, Sunday and Monday before Election Day. https://t.co/uoEW5tKs6t https://t.co/8jymir5yfA",['1591120744033185792']
-58,1591119486811516928,2022-11-11T17:23:41.000Z,2303751216,"In Arizona’s gubernatorial race, we estimate that Lake would have to win about 53% of the outstanding ballots in order to win. That hasn’t been happening so far in the vote drops we’ve seen, but it’s certainly within the realm of possibility. https://t.co/PpvYVUUNHs https://t.co/p1UzzUTLsK",['1591119486811516928']
-59,1591117112877121536,2022-11-11T17:14:15.000Z,2303751216,"Here’s where things stand in Arizona's Senate race. About 500,000 ballots remain to be counted, and we estimate that Masters would have to win at least 61% of them to get more votes than Kelly overall. (Kelly currently has a 115,037-vote lead.) https://t.co/OnUcLlJA9v https://t.co/DvRAjDahj8",['1591117112877121536']
-60,1591110681767575554,2022-11-11T16:48:42.000Z,2303751216,Latest election results --&gt; https://t.co/PClj7zWXQe,['1591110681767575554']
-61,1591095717090713600,2022-11-11T15:49:14.000Z,2303751216,"Clark is key because it will have almost two-thirds of Washington 3rd's total vote. Biden carried Clark 51% to 46% in 2020, so it’s also clear Gluesenkamp Perez will outrun Biden's showing — but by how much will determine whether she or Kent wins. https://t.co/NbKLUgYQtE",['1591095717090713600']
-62,1591089202527350784,2022-11-11T15:23:21.000Z,2303751216,We're still watching the vote trickle in. https://t.co/yLYdTAgBvG,['1591089202527350784']
-63,1591089070855397376,2022-11-11T15:22:50.000Z,2303751216,"Last night, ABC News reported that Democratic Reps. Dina Titus and Steven Horsford are projected to win Nevada’s 1st and 4th. Titus was in a toss-up race and had been unhappy about the Dem-drawn map, which turned her solid blue seat light blue. https://t.co/g2g1eXJYCg",['1591089070855397376']
-64,1591087955329908738,2022-11-11T15:18:24.000Z,2303751216,"Based on ABC News estimates, there are a bit more than 90,000 votes left to tally in Nevada, which we also know are mostly mail-in ballots and likely to be Democratic-leaning votes. https://t.co/ePTPIEZDHl",['1591087955329908738']
-65,1591087146328358912,2022-11-11T15:15:11.000Z,2303751216,"In the Senate contest, Cortez Masto led Laxalt among those ballots, 61% to 36%, while Sisolak led Lombardo 58% to 37% in the governor’s race. Statewide, Laxalt now leads Cortez Masto by just 1 percentage point, while Lombardo holds a 3.1-point advantage. https://t.co/giMXvIOwMV https://t.co/m18FdcDpUw",['1591087146328358912']
-66,1591086521515491334,2022-11-11T15:12:42.000Z,2303751216,"We have new numbers in Nevada’s Senate and gubernatorial races since last night. Washoe County released an updated count close to midnight Eastern yesterday that included 18,000 newly tallied votes. https://t.co/yh7sjojK2J",['1591086521515491334']
-67,1591085602048335872,2022-11-11T15:09:03.000Z,2303751216,"Today, we can probably expect a handful more projections in individual House races, and maybe in Arizona’s Senate race if ballot drops are as good for Democrats as they were on Wednesday and Thursday. https://t.co/3yJvU63D0E",['1591085602048335872']
-68,1591082341925101569,2022-11-11T14:56:05.000Z,2303751216,"Three days after Election Day, control of the Senate and House are still up in the air. https://t.co/qY8LgiM71b",['1591082341925101569']
-69,1591081054693167111,2022-11-11T14:50:58.000Z,2303751216,How 2020 election deniers did in 2022 elections: https://t.co/OT4PkivpYC,['1591081054693167111']
-70,1590856600386174976,2022-11-10T23:59:04.000Z,2303751216,Latest election results --&gt; https://t.co/4ucXKoIR3j,['1590856600386174976']
-71,1590827660996902912,2022-11-10T22:04:05.000Z,2303751216,It's clear that the end of Roe v. Wade turned abortion access into one of the most salient issues in the country — which means you’re going to be hearing a lot more about it as the 2024 presidential campaign creaks into gear. https://t.co/kd338l2yOw,['1590827660996902912']
-72,1590826931733274624,2022-11-10T22:01:11.000Z,2303751216,How 2020 election deniers did in 2022 elections: https://t.co/JqA1qyZS63,['1590826931733274624']
-73,1590825581532282880,2022-11-10T21:55:49.000Z,2303751216,Denying the 2020 election wasn’t a winning strategy for political newcomers. https://t.co/aC8CDx6NkS,['1590825581532282880']
-74,1590824124062269441,2022-11-10T21:50:01.000Z,2303751216,How 2020 election deniers did in 2022 elections: https://t.co/tbomkcH5ST,['1590824124062269441']
-75,1590817587331489792,2022-11-10T21:24:03.000Z,2303751216,Still no calls for balance of power in Congress: https://t.co/Bus6hwvyBm,['1590817587331489792']
-76,1590815859018063873,2022-11-10T21:17:11.000Z,2303751216,"Iowa Attorney General Tom Miller has conceded to his Republican challenger, Brenna Bird. Miller had the role for 38 years, and was the longest-serving attorney general in U.S. history. But voters just rejected him. https://t.co/ui5fcXsNOY",['1590815859018063873']
-77,1590801662645526528,2022-11-10T20:20:46.000Z,2303751216,"Rep. Lauren Boebert of Colorado’s 3rd District  is in a nail-biter finish with Democratic challenger, former Aspen City Councilman Adam Frisch. With 96% of the expected vote reporting, Boebert has taken the lead — though by fewer than 800 votes. https://t.co/e4jbpHEzpb",['1590801662645526528']
-78,1590769611838218240,2022-11-10T18:13:25.000Z,2303751216,An updating average of Americans' favorability of former President Trump: https://t.co/7oJv7EnDGd,['1590769611838218240']
-79,1590767057318346752,2022-11-10T18:03:16.000Z,2303751216,Which House and Senate seats have changed hands so far: https://t.co/urlpAW4zlw https://t.co/rU149eOwuR,['1590767057318346752']
-80,1590766648427945984,2022-11-10T18:01:38.000Z,2303751216,"14 House seats have flipped in the midterms so far, with a net gain of +11 seats for Republicans — well over the +5 threshold they’d need to take control of the chamber. 
-
-Redistricting (read: gerrymandering) is a large part of the reason why. https://t.co/kCZNPtqdgl",['1590766648427945984']
-81,1590763750432411658,2022-11-10T17:50:07.000Z,2303751216,The Colts hired Jeff Saturday as head coach. We have questions. https://t.co/MveLxZpT4g,['1590763750432411658']
-82,1590758891117158402,2022-11-10T17:30:49.000Z,2303751216,Latest election results --&gt; https://t.co/xuZHYvptxI,['1590758891117158402']
-83,1590758380444045312,2022-11-10T17:28:47.000Z,2303751216,How gubernatorial and secretary of state candidates who have either denied or questioned the legitimacy of the 2020 election are doing in 2022 elections: https://t.co/SlBXpVuM6m,['1590758380444045312']
-84,1590757008935829504,2022-11-10T17:23:20.000Z,2303751216,"The status of ""Likely Republican"" House races --&gt; https://t.co/AhY3KmOzDN",['1590757008935829504']
-85,1590754273318559745,2022-11-10T17:12:28.000Z,2303751216,"ABC News reports that Republican Ryan Zinke is projected to win Montana’s 1st Congressional District, where he’s defeated Democrat Monica Tranel. This means Montana will now have two Republican representatives, since it gained a seat in reapportionment. https://t.co/xrAXyRTis9",['1590754273318559745']
-86,1590751691749888002,2022-11-10T17:02:12.000Z,2303751216,"The 3 largest legislative chambers in the U.S. are the U.S. House (435 members), the New Hampshire House (400 members) and the Pennsylvania House (203 members). And all three look like they’re going to be decided by extremely narrow margins. https://t.co/vzXnC2tswO",['1590751691749888002']
-87,1590749258738810884,2022-11-10T16:52:32.000Z,2303751216,ABC News reports that Democratic Rep. Jahana Hayes is projected to win reelection in Connecticut’s 5th District. This means it’s quite likely Dems will continue to represent every House seat in New England. The only unprojected race there is Maine’s 2nd. https://t.co/NEcB6y6QkC,['1590749258738810884']
-88,1590748708341252098,2022-11-10T16:50:21.000Z,2303751216,"Earlier, ABC News reported that Democrat Gabe Vasquez is projected to win New Mexico’s 2nd. Dems drew the state’s new congressional map with an eye on taking Herrell out, shifting the southern-most seat from R+14 to D+4. https://t.co/ixaqEzsJKn",['1590748708341252098']
-89,1590746708857819139,2022-11-10T16:42:24.000Z,2303751216,"Hobbs leads by 47,000 in Maricopa, and Kelly leads by 92,572. But in 2020, Arizona was one of the few states where Republicans gained on Wednesday, Thursday and Friday as more votes were counted. https://t.co/ueQbdcGQy7 https://t.co/HqVJ01heTs",['1590746708857819139']
-90,1590745940163694593,2022-11-10T16:39:21.000Z,2303751216,"Earlier, ABC News reported that Democrat Yadira Caraveo is projected to win Colorado’s 8th Congressional District. This is a big upset. But Colorado really showed up for Democrats on Tuesday. https://t.co/478Wu7gcZC",['1590745940163694593']
-91,1590745523581030400,2022-11-10T16:37:42.000Z,2303751216,"Note: We still don’t know which party will control the Senate or the House, but to our eyes, the Senate leans Democratic at this moment and the House leans Republican. https://t.co/9hGUwYL53z",['1590745523581030400']
-92,1590745220769271808,2022-11-10T16:36:29.000Z,2303751216,Most of the tight races we’re watching right now are western states. Here are their recount laws: https://t.co/rKxfICMOMF,['1590745220769271808']
-93,1590745093362880513,2022-11-10T16:35:59.000Z,2303751216,"Maricopa County, Arizona, has between 400,000 and 410,000 ballots left to count, according to Yvonne Wingett Sanchez of the Washington Post and Brahm Resnik of KPNX-TV. The next update from the county will be between 5 p.m. and 8 p.m. local time. https://t.co/Oa0in3diYF",['1590745093362880513']
-94,1590744111270662144,2022-11-10T16:32:05.000Z,2303751216,"Abortion-rights supporters managed to enshrine the right to abortion in three state constitutions, including the crucial state of Michigan, where a near-total ban on abortion from 1931 has been tangled up in court battles for months. https://t.co/19gWxQY83F",['1590744111270662144']
-95,1590736281876672512,2022-11-10T16:00:58.000Z,2303751216,"The best NFL receivers, according to ESPN analytics: https://t.co/HqcAcdZjzV",['1590736281876672512']
-96,1590727764659044352,2022-11-10T15:27:08.000Z,2303751216,"Our updating calculation of the president's approval rating accounts for each poll's quality, recency, sample size and partisan lean. https://t.co/gRE7ar2i3Y",['1590727764659044352']
-97,1590721212761935881,2022-11-10T15:01:05.000Z,2303751216,From @natesilver538: Candidate quality mattered. https://t.co/twzmrQEoqC,['1590721212761935881']
-98,1590713420206116864,2022-11-10T14:30:08.000Z,2303751216,Can Democratic Sen. Raphael Warnock pull off another win in Georgia? #GASen https://t.co/8KQvU6hRZS,['1590713420206116864']
-99,1590701605430743041,2022-11-10T13:43:11.000Z,2303751216,The midterm election results look like a striking rebuke of the Supreme Court's decision to overturn Roe v. Wade. https://t.co/QYSTXHmhVJ,['1590701605430743041']
+That’s the number of Americans who live in a state where Democrats will have total control over state government after the 2022 midterm elections. https://t.co/FxR0ZI3hzW",2303751216,['1604963560387498020'],2022-12-19T22:15:06.000Z
+64,1604949457279361024,Democrats want to put abortion on the ballot — but many states won’t let them https://t.co/Ojlg7cWczo,2303751216,['1604949457279361024'],2022-12-19T21:19:03.000Z
+65,1604943428860649487,"The best NBA players, according to RAPTOR https://t.co/R7EZJNIjPA",2303751216,['1604943428860649487'],2022-12-19T20:55:06.000Z
+66,1604937394599481346,The voters who helped Democrats keep the Senate https://t.co/Rx4Ie8LM9e,2303751216,['1604937394599481346'],2022-12-19T20:31:07.000Z
+67,1604923538380660736,Our NFL predictions: https://t.co/spHpvWOdB4,2303751216,['1604923538380660736'],2022-12-19T19:36:04.000Z
+68,1604912594896257032,Argentina and France lived up to the #WorldCup final's hype — and then transcended it https://t.co/Nkk6tD9pnW,2303751216,['1604912594896257032'],2022-12-19T18:52:35.000Z
+69,1604907013552701462,Democrats’ new strength on the state level could lead to a flurry of new liberal policies. https://t.co/cjP9Sl2S0j,2303751216,['1604907013552701462'],2022-12-19T18:30:24.000Z
+70,1604904675911893003,"According to our FiveThirtyEight/PerryUndem/YouGov survey and others, voters ages 18 to 29 are more likely than any other cohort to say that abortion should always be legal and that racism and racial inequality are big problems in the U.S. https://t.co/DumdWD8XiI",2303751216,['1604904675911893003'],2022-12-19T18:21:07.000Z
+71,1604894594730233867,Democrats want to put abortion on the ballot — but many states won’t let them https://t.co/WYa9TTsjqo,2303751216,['1604894594730233867'],2022-12-19T17:41:03.000Z
+72,1604886798676725760,NFL games have never been closer. Here's why. https://t.co/4HS1IvX3p5,2303751216,['1604886798676725760'],2022-12-19T17:10:04.000Z
+73,1604879506069757952,The places where successful Democratic Senate candidates did gain ground in 2022 suggests that they largely replicated President Biden’s 2020 coalition while also making some small but specific inroads. https://t.co/5GNceyxdSc,2303751216,['1604879506069757952'],2022-12-19T16:41:06.000Z
+74,1604862146042646528,"The college football bowls you should watch, according to our highly scientific ratings --&gt; https://t.co/aUTLn5wkpE",2303751216,['1604862146042646528'],2022-12-19T15:32:07.000Z
+75,1604854325116796930,The Riddler: Can you make it to 2023? https://t.co/TpDdh9fB9o,2303751216,['1604854325116796930'],2022-12-19T15:01:02.000Z
+76,1604849048120328195,"Our updating calculation of the president's approval rating accounts for each poll's quality, recency, sample size and partisan lean. https://t.co/J1VzkqRH4X",2303751216,['1604849048120328195'],2022-12-19T14:40:04.000Z
+77,1604844557518127104,"The best NFL receivers, according to ESPN analytics https://t.co/pe1vbvqPiX https://t.co/OweNqOFt5t",2303751216,['1604844557518127104'],2022-12-19T14:22:13.000Z
+78,1604839479990276100,Here’s how Democrats broadened Biden’s 2020 coalition in key states. https://t.co/nPkoJ7vtRA https://t.co/vgc47f0J8i,2303751216,['1604839479990276100'],2022-12-19T14:02:03.000Z
+79,1604834821817389056,"While just 7.8 percent of Americans living in poverty in 2021 counts as a policy victory, expect that number to be higher next year. https://t.co/wWFX1JJqPi",2303751216,['1604834821817389056'],2022-12-19T13:43:32.000Z
+80,1604636889646092288,"The best NBA players, according to RAPTOR https://t.co/EGQdAGa59J",2303751216,['1604636889646092288'],2022-12-19T00:37:01.000Z
+81,1604600161631707136,How North Carolina’s political warfare could impact the entire country https://t.co/SZzCixkZjY,2303751216,['1604600161631707136'],2022-12-18T22:11:05.000Z
+82,1604548577132519424,"According to our FiveThirtyEight/PerryUndem/YouGov survey and others, voters ages 18 to 29 are more likely than any other cohort to say that abortion should always be legal and that racism and racial inequality are big problems in the U.S. https://t.co/ZWFkS9zKDg",2303751216,['1604548577132519424'],2022-12-18T18:46:06.000Z
+83,1604531462396870657,The Riddler: Can you make it to 2023? https://t.co/9eN2oHTKzT,2303751216,['1604531462396870657'],2022-12-18T17:38:06.000Z
+84,1604501250183430144,NFL games have never been closer. Here's why. https://t.co/adQ04i0V5C,2303751216,['1604501250183430144'],2022-12-18T15:38:02.000Z
+85,1604461759829381121,Mbappé vs. Messi is the #WorldCup final soccer fans deserve — and one that could represent a changing of the guard in the sport. https://t.co/UFK9T0qDMJ,2303751216,['1604461759829381121'],2022-12-18T13:01:07.000Z
+86,1604291122188132355,An updating average of Americans' favorability of former President Trump: https://t.co/S0KDQN5OXE,2303751216,['1604291122188132355'],2022-12-18T01:43:04.000Z
+87,1604283578128498688,Our NFL predictions: https://t.co/VImyjJX2np,2303751216,['1604283578128498688'],2022-12-18T01:13:05.000Z
+88,1604274262755495936,Wait a minute — just how much of this #WorldCup has happened during stoppage time? https://t.co/wwhibxbvdC,2303751216,['1604274262755495936'],2022-12-18T00:36:04.000Z
+89,1604211359020994561,Americans want more affordable housing — just not nearby https://t.co/msWo9qSYci,2303751216,['1604211359020994561'],2022-12-17T20:26:07.000Z
+90,1604185923796844545,"These butterflies represent a moment of reckoning and wrestling, as environmental scientists struggle to find hope in a world where losing battles are the ones most likely to be fought.  https://t.co/4aD14kIuxc",2303751216,['1604185923796844545'],2022-12-17T18:45:03.000Z
+91,1604160764121874432,How Gen Z could transform American politics: https://t.co/fXoNiKDJRm https://t.co/KsK965AjwG,2303751216,['1604160764121874432'],2022-12-17T17:05:04.000Z
+92,1604137615078432768,"The difficulties Sinema is likely to encounter speak to why senators rarely switch parties, and why it’s even more unusual for them to become — and stay — independent. https://t.co/WMhaJ0bKsD",2303751216,['1604137615078432768'],2022-12-17T15:33:05.000Z
+93,1604119509807292419,Our #WorldCup predictions: https://t.co/EBkznor8w2,2303751216,['1604119509807292419'],2022-12-17T14:21:08.000Z
+94,1603910622340698114,"While just 7.8 percent of Americans living in poverty in 2021 counts as a policy victory, expect that number to be higher next year. https://t.co/JHZJ7mkf2a",2303751216,['1603910622340698114'],2022-12-17T00:31:06.000Z
+95,1603899034871238662,Mbappé vs. Messi is the #WorldCup final soccer fans deserve https://t.co/UQHBq8B1cp,2303751216,['1603899034871238662'],2022-12-16T23:45:03.000Z
+96,1603891542531473408,"The best NFL receivers, according to ESPN analytics https://t.co/bG2WaYX3v4 https://t.co/q9yj606GTW",2303751216,['1603891542531473408'],2022-12-16T23:15:17.000Z
+97,1603890743315144704,"While homelessness decreased nationally between 2007 and 2016, trends have since reversed. https://t.co/3llmT8OHVk",2303751216,['1603890743315144704'],2022-12-16T23:12:06.000Z
+98,1603882683410571265,The World Cup's new high-tech ball will change soccer forever https://t.co/GDWMHF6yAA,2303751216,['1603882683410571265'],2022-12-16T22:40:05.000Z
+99,1603875119817973797,How Republicans won the majority of Latino voters in Florida https://t.co/PXdnjfwSsD,2303751216,['1603875119817973797'],2022-12-16T22:10:01.000Z
